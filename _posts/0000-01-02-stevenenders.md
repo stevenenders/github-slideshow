@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide"
 ---
-your text
+We **hope** you find it useful
 Use the left arrow to go back!
